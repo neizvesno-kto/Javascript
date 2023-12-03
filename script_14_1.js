@@ -1,0 +1,17 @@
+let a = 1;
+let b = 2;
+let c = 3;
+let ab = 4, ac = 5 , ad = 6;
+let ae,ar,am;
+ae = 7;
+ar = 8;
+am = 9;
+alert(a);
+alert(b);
+alert(c);
+alert(ab);
+alert(ac);
+alert(ad);
+alert(ae);
+alert(ar);
+alert(am);
